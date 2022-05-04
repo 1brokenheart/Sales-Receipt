@@ -1,5 +1,5 @@
-Create a sales receipt for a small business using Python.
+Create a sales receipt for a retail business using Python.
 
-Statinbg by creating a list of products with their names and prices.
+Star by creating a list of products with product name, description and prices.
 Add up the total price of the order and finally printing the receipt to the terminal.
 
