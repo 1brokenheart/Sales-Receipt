@@ -1,5 +1,13 @@
-Create a sales receipt for a retail business using Python.
+Create a python code to print a receipt for a retail business. 
 
-Star by creating a list of products with product name, description and prices.
-Add up the total price of the order and finally printing the receipt to the terminal.
+The receipt will displayed: 
+  name of the store; address; 
+  type of transaction: sales, return, or void; 
+  itemization of purchased items; 
+  detail of the dollar amount paid by customers; and 
+  the store return policy.
+
+I started by creating a dictionary that contains the different stores and addresses.
+Follow by creating two separate lists, one of products and one for prices.
+A variable contains the sale tax to easily access it in case of changes.
 
