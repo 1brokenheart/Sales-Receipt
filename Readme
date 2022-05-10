@@ -1,6 +1,6 @@
 Create a python code to print a receipt for a retail business. 
 
-The receipt will displayed: 
+The receipt will display: 
   name of the store 
   address 
   type of transaction: sales, return, or void 
